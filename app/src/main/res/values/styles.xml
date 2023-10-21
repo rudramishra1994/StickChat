@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MineCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:singleLine">true</item>
+        <item name="android:autoSizeMinTextSize">11sp</item>
+        <item name="android:autoSizeMaxTextSize">20sp</item>
+        <item name="android:autoSizeStepGranularity">1sp</item>
+    </style>
+</resources>
